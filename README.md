@@ -1,7 +1,12 @@
 # moonlightstar
 
-# 这是初版的个人网站设计，半成品完成于24/7/12
+## 这是初版的个人网站设计，半成品完成于24/7/12
 
+## 技术栈
+- Vue3
+- Vite
+- TypeScript
+- ElementPlus
 
 ## Recommended IDE Setup
 
