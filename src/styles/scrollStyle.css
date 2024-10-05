@@ -1,0 +1,22 @@
+/* 滚动条轨道 */
+::-webkit-scrollbar {
+    width: 6px; /* 宽度 */
+    height: 6px; /* 高度 */
+}
+
+/* 滚动条轨道背景 */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 6px; /* 圆角 */
+}
+
+/* 滚动条滑块 */
+::-webkit-scrollbar-thumb {
+    background: #8fa4ef;
+    border-radius: 4px; /* 圆角 */
+}
+
+/* 鼠标悬停在滚动条上的效果 */
+::-webkit-scrollbar-thumb:hover {
+    background: #6a84e1;
+}
